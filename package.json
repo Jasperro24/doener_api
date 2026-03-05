@@ -1,5 +1,5 @@
 {
-  "name": "lieferando_doener",
+  "name": "doener_api",
   "module": "index.ts",
   "type": "module",
   "private": true,

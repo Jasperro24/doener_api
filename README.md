@@ -1,4 +1,4 @@
-# lieferando_doener
+# doener_api
 
 To install dependencies:
 
